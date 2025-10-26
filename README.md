@@ -30,4 +30,4 @@ Within just a few hours, I designed and built a complete dashboard that uncovers
 
 ---
 
-## 📁 Folder Structure
+
